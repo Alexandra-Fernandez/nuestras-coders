@@ -1,0 +1,26 @@
+
+.contenedor {
+	background-color: black;
+	height: 5px;
+	width: 100px;
+}
+.caja {
+	display:block;
+	width: 750px;
+	height: 550px;
+}
+.fila {
+	position: relative;
+	display: inline-block;
+	margin: 10px;
+}
+.letra {
+	position: absolute;
+	bottom: 0px;
+	right: 0px;
+	color: white;
+}
+img:hover{
+	opacity: 0.5;
+	filter: 1;
+}
